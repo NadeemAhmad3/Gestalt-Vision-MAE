@@ -1,7 +1,3 @@
-Here is a detailed, professional-grade GitHub README crafted specifically for your code. It breaks down the architecture, highlights your specific implementation details (like the per-patch normalization and un-shuffling logic), and frames your work perfectly for recruiters and other AI engineers.
-
----
-
 # MAE-Vision: PyTorch Implementation of Masked Autoencoders 🎭
 
 An optimized, from-scratch PyTorch implementation of the research paper **"Masked Autoencoders Are Scalable Vision Learners"** by Kaiming He et al.
